@@ -1,0 +1,20 @@
+{
+  "name": "rsserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+    "start": "node express.js",
+    "test": "test"
+  },
+  "keywords": [
+    "rolling",
+    "scopes",
+    "school"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
